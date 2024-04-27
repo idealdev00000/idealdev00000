@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Sr.ChatBot Dev</h1>
+<h1 align="center">Hi 👋, I'm a Sr.Mobile App Dev</h1>
 
 ## 😄 About me
 - 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec     
