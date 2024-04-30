@@ -5,24 +5,6 @@
 - 🤔 Feel free to contact me, I'll be glad to talk with you !
 - 💬 I'm looking for an internship as Machine Learning Engineer for 6 months beginning in April 2023.
 
-<h2>📌My GitHub repositories</h2>
-<div>
-  <p>
-    <a href="https://github.com/YoanGab/langchain_chainlit">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=langchain_chainlit" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/YoanGab/chatbot_and_recommendation_system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=chatbot_and_recommendation_system" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/YoanGab/Morpion4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=Morpion4" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/YoanGab/KNN">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=KNN" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <h2>📈 My GitHub Stats</h2>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YoanGab&show_icons=true&include_all_commits=true)
